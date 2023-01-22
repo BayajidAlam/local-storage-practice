@@ -1,0 +1,9 @@
+.cart{
+  position: sticky;
+  top: 0;
+}
+
+.selected{
+  margin-top: 100px;
+  font-size: 17px;
+}
